@@ -2,4 +2,11 @@ p{
     background-color: aqua;
     background-image: url(ccc.jfif);
     color: red;
+}h2{
+    background-image: url(marrige.jfif);
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-color: hotpink;
+    background-blend-mode: multiply;
 }
+h
