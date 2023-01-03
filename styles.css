@@ -1,12 +1,22 @@
 p{
-    background-color: aqua;
+    background-color: aqua center;
     background-image: url(ccc.jfif);
-    color: red;
-}h2{
-    background-image: url(marrige.jfif);
-    background-position: cover;
+    /* background-position: cover */
+    background-position: center;
     background-repeat: no-repeat;
-    background-color: hotpink;
+    color: red;
+    text-align: center;
     background-blend-mode: multiply;
+}
+
+h2{
+    color: red;
+    background-image: url(marrige.jfif);
+    /* background-position: cover; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: hotpink center;
+    background-blend-mode: multiply;
+    text-align: center;
 }
 h
